@@ -1,0 +1,11 @@
+{
+  "source": "U.S. Bureau of Labor Statistics (BLS) Public Data API v2",
+  "series": {
+    "CUUR0000SA0": "All_Items",
+    "CUUR0000SAF1": "Food",
+    "CUUR0000SA0E": "Energy",
+    "CUUR0000SAA": "Apparel",
+    "CUUR0000SAM": "Medical_Care"
+  },
+  "retrieved": "2026-11-07"
+}
