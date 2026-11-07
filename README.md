@@ -8,8 +8,8 @@ A 12-month forecasting project on five US Consumer Price Index (CPI) categories,
 
 <!-- TODO: add links when available -->
 
-- Live dashboard: TODO
-- Repository: TODO
+- Live dashboard: https://cpi-cost-forecasting.streamlit.app
+- Repository: https://github.com/Yutakuro9029/cpi-cost-forecasting
 
 ## Key Findings
 
